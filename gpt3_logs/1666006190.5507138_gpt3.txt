@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Says the Annies List political group supports third-trimester abortions on demand.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Annies List political group supports third-trimester abortions on demand.
